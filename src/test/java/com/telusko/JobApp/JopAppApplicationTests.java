@@ -1,4 +1,4 @@
-package com.telusko.JopApp;
+package com.telusko.JobApp;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
